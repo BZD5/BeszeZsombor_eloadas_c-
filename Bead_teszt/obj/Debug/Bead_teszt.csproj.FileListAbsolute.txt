@@ -1,0 +1,8 @@
+C:\Users\besze\source\repos\Bead_teszt\bin\Debug\Bead_teszt.exe.config
+C:\Users\besze\source\repos\Bead_teszt\bin\Debug\Bead_teszt.exe
+C:\Users\besze\source\repos\Bead_teszt\bin\Debug\Bead_teszt.pdb
+C:\Users\besze\source\repos\Bead_teszt\obj\Debug\Bead_teszt.csproj.AssemblyReference.cache
+C:\Users\besze\source\repos\Bead_teszt\obj\Debug\Bead_teszt.csproj.SuggestedBindingRedirects.cache
+C:\Users\besze\source\repos\Bead_teszt\obj\Debug\Bead_teszt.csproj.CoreCompileInputs.cache
+C:\Users\besze\source\repos\Bead_teszt\obj\Debug\Bead_teszt.exe
+C:\Users\besze\source\repos\Bead_teszt\obj\Debug\Bead_teszt.pdb
